@@ -15,7 +15,10 @@
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.52.1",
     "react-hot-toast": "^2.4.1",
+<<<<<<< HEAD
     "react-icons": "^5.5.0",
+=======
+>>>>>>> 080843e8ee0b52cea63e84b18960f3d0e1204498
     "react-scroll": "^1.9.0",
     "react-typed": "^2.0.12"
   },
